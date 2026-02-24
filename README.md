@@ -37,6 +37,9 @@ I am a cybersecurity student passionate about building real-world security tools
 🧪 Penetration Testing Basics  
 
 ---
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,linux,git,github&perline=8" />
+</p>
 
 ## 🧰 Tech Stack
 
