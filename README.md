@@ -18,7 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=yashicasharma1&label=Profile+Views&color=blue&style=for-the-badge" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 👩‍💻 Who Am I
 
@@ -29,7 +29,7 @@ I am a cybersecurity student passionate about building real-world security tools
 - Learning offensive + defensive cybersecurity  
 - Exploring networking, OSINT & automation  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🔐 Security Domains
 
@@ -39,7 +39,7 @@ I am a cybersecurity student passionate about building real-world security tools
 ⚙️ Security Automation  
 🧪 Penetration Testing Basics  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashicasharma1&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashicasharma1&theme=tokyonight" />
@@ -56,7 +56,7 @@ I am a cybersecurity student passionate about building real-world security tools
 
 Python • Linux • Networking • Socket Programming • OSINT • Security Tools
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 📊 GitHub Activity
 
@@ -65,7 +65,7 @@ Python • Linux • Networking • Socket Programming • OSINT • Security To
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashicasharma1&layout=compact&theme=tokyonight" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashicasharma1&theme=tokyonight" />
 </p>
@@ -81,7 +81,7 @@ Socket-based concurrent port scanner for network reconnaissance.
 🛡️ **Internal Network Compromise Simulation**  
 Attack simulation using Kali Linux, Metasploit & reconnaissance techniques.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 📚 Currently Learning
 
@@ -90,22 +90,14 @@ Attack simulation using Kali Linux, Metasploit & reconnaissance techniques.
 - SIEM Basics  
 - Web Application Security  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🎯 Career Focus
 
 SOC Analyst • Security Analyst • Threat Detection • Network Defense
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 📈 Learning Journey
-
-2024 → Cybersecurity fundamentals  
-2025 → Built OSINT & networking tools  
-2026 → Focus on detection & SOC skills  
-Next → Cybersecurity Internship  
-
----
 
 ## 🤝 Let's Connect
 
@@ -116,7 +108,7 @@ Open to:
 - Security analyst roles  
 - Networking/security collaborations  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
