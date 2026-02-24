@@ -30,10 +30,6 @@ I am a cybersecurity student passionate about building real-world security tools
 - Learning offensive + defensive cybersecurity  
 - Exploring networking, OSINT & automation
 
-  <p align="center">
-<img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="100%" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🔐 Security Domains
