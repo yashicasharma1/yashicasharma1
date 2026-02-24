@@ -117,6 +117,9 @@ Open to:
 - Networking/security collaborations  
 
 ---
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:0f2027,100:203a43&height=140&section=footer&animation=twinkling"/>
