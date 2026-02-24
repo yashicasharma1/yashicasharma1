@@ -1,9 +1,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f2027,50:203a43,75:2c5364,100:000000&height=300&section=header&animation=twinkling&text=Yashica%20Sharma&fontSize=45&fontColor=00ffcc" />
 </p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Yashica%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=Initializing+Cybersecurity+Profile...;Loading+Security+Modules...;OSINT+%7C+Networking+%7C+Threat+Detection;SOC+Analyst+Mode+Activated" />
 </p>
