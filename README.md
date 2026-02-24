@@ -98,7 +98,9 @@ SOC Analyst • Security Analyst • Threat Detection • Network Defense
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-
+<p align="center">
+<img src="https://img.shields.io/badge/Available_for-Cybersecurity_Internships-success?style=for-the-badge" />
+</p>
 ## 🤝 Let's Connect
 
 I’m actively looking for cybersecurity internship opportunities and real-world security learning environments.
