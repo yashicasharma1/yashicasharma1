@@ -65,13 +65,16 @@ TCP/IP • Socket Programming • Multi-threading
 - SIEM Basics  
 - Web Application Security  
 
-🚀 Projects
+## 🚀 Featured Projects
 
-🔎 OSINT Recon Automation Tool
+🔎 **OSINT Recon Automation Tool**  
+Automated domain intelligence gathering, subdomain enumeration, WHOIS analysis & reporting.
 
-🛰️ Python Multi-threaded Port Scanner
+🛰️ **Python Multi-Threaded Port Scanner**  
+Socket-based concurrent port scanning tool for network reconnaissance.
 
-🛡️ Internal Network Compromise Simulation
+🛡️ **Internal Network Compromise Simulation**  
+Simulated attack chain using Kali Linux & Metasploit in a lab environment.
 
 ### 🧰 Tools & Platforms
 
