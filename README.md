@@ -42,6 +42,11 @@ OSINT • Port Scanning • Subdomain Enumeration • WHOIS Analysis
 
 Networking:
 TCP/IP • Socket Programming • Multi-threading
+### 🧰 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,linux,git,github" />
+</p>
 
 ## 📊 GitHub Stats
 
