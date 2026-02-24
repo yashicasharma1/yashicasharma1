@@ -3,6 +3,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;OSINT+%7C+Networking+%7C+Security;Python+Security+Tools+Builder;Future+SOC+Analyst" />
 </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=yashicasharma1&label=Profile+Views&color=blue&style=for-the-badge" />
+</p>
 
 
 <p align="center">
