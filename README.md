@@ -1,103 +1,107 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Cybersecurity%20Portfolio&fontSize=35&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Yashica%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-<h1 align="center">🛡️ Yashica Sharma</h1>
+
+<h2 align="center">🛡️ Cybersecurity | OSINT | Networking | Python Security</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;OSINT+%7C+Networking+%7C+Security;Python+Security+Tools+Builder;Future+SOC+Analyst" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Security+Tools+Developer;Future+SOC+Analyst;OSINT+%7C+Networking+%7C+Threat+Detection" />
 </p>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=yashicasharma1&label=Profile+Views&color=blue&style=for-the-badge" />
 </p>
 
+---
 
-<p align="center">
-Cybersecurity Student | OSINT | Networking | Offensive Security
-</p>
+## 👩‍💻 Who Am I
 
-<p align="center">
-<img src="https://img.shields.io/badge/Cybersecurity-Student-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Python-Security-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/OSINT-Recon-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/Networking-TCP/IP-orange?style=for-the-badge">
-</p>
-👩‍💻 Yashica Sharma
+I am a cybersecurity student passionate about building real-world security tools and understanding how attacks and defenses operate in modern networks.
 
-Cybersecurity Student | Networking & OSINT Enthusiast
+- Focused on SOC & Threat Detection  
+- Building Python-based security tools  
+- Learning offensive + defensive cybersecurity  
+- Exploring networking, OSINT & automation  
 
-🔐 About Me
+---
 
-Passionate about cybersecurity and offensive security
+## 🔐 Security Domains
 
-Building real-world security tools using Python
+🛰️ OSINT & Recon  
+🌐 Network Security  
+🛡️ Threat Detection  
+⚙️ Security Automation  
+🧪 Penetration Testing Basics  
 
-Interested in SOC, Threat Hunting & Penetration Testing
+---
 
-Actively learning networking, reconnaissance, and automation
-
-🛠️ Technical Skills
-
-Programming:
-Python
-
-Cybersecurity:
-OSINT • Port Scanning • Subdomain Enumeration • WHOIS Analysis
-
-Networking:
-TCP/IP • Socket Programming • Multi-threading
-### 🧰 Tools & Technologies
+## 🧰 Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,linux,git,github" />
 </p>
 
-## 📊 GitHub Stats
+Python • Linux • Networking • Socket Programming • OSINT • Security Tools
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yashicasharma1&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashicasharma1&layout=compact&theme=tokyonight" />
 </p>
 
-### 📚 Currently Learning
+---
+
+## 🚀 Featured Security Projects
+
+🔎 **OSINT Recon Automation Tool**  
+Automated intelligence gathering, WHOIS analysis, subdomain enumeration & reporting.
+
+🛰️ **Python Multi-Threaded Port Scanner**  
+Socket-based concurrent port scanner for network reconnaissance.
+
+🛡️ **Internal Network Compromise Simulation**  
+Attack simulation using Kali Linux, Metasploit & reconnaissance techniques.
+
+---
+
+## 📚 Currently Learning
 
 - Network Security Monitoring  
 - Threat Detection  
 - SIEM Basics  
 - Web Application Security  
 
-## 🚀 Featured Projects
-
-🔎 **OSINT Recon Automation Tool**  
-Automated domain intelligence gathering, subdomain enumeration, WHOIS analysis & reporting.
-
-🛰️ **Python Multi-Threaded Port Scanner**  
-Socket-based concurrent port scanning tool for network reconnaissance.
-
-🛡️ **Internal Network Compromise Simulation**  
-Simulated attack chain using Kali Linux & Metasploit in a lab environment.
-
-### 🧰 Tools & Platforms
-
-- Kali Linux  
-- Nmap  
-- Wireshark  
-- Metasploit  
-- Git & GitHub
+---
 
 ## 🎯 Career Focus
 
-- SOC Analyst
-- Threat Detection
-- Network Security
-- Incident Response
+SOC Analyst • Security Analyst • Threat Detection • Network Defense
 
-📈 Current Goal
+---
 
-Seeking a Cybersecurity Internship where I can apply networking and security fundamentals in real-world environments.
+## 📈 Learning Journey
 
-📫 Contact
+2024 → Cybersecurity fundamentals  
+2025 → Built OSINT & networking tools  
+2026 → Focus on detection & SOC skills  
+Next → Cybersecurity Internship  
 
-Email: yashicasharma098@gmail.com
+---
+
+## 🤝 Let's Connect
+
+I’m actively looking for cybersecurity internship opportunities and real-world security learning environments.
+
+Open to:
+- SOC internships  
+- Security analyst roles  
+- Networking/security collaborations  
+
+---
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
