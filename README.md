@@ -108,8 +108,8 @@ SOC Analyst • Security Analyst • Threat Detection • Network Defense
 I’m actively looking for cybersecurity internship opportunities and real-world security learning environments.
 
 Open to:
-- SOC internships  
-- Security analyst roles  
+- red team security analyst internships  
+- SOC analyst roles  
 - Networking/security collaborations  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
