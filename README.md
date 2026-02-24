@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;OSINT+%7C+Networking+%7C+Security;Python+Security+Tools+Builder;Future+SOC+Analyst" />
 </p>
 
-<h1 align="center">🛡️ Yashica Sharma</h1>
+
 <p align="center">
 Cybersecurity Student | OSINT | Networking | Offensive Security
 </p>
