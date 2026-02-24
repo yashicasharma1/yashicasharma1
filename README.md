@@ -76,7 +76,14 @@ TCP/IP • Socket Programming • Multi-threading
 - Nmap  
 - Wireshark  
 - Metasploit  
-- Git & GitHub  
+- Git & GitHub
+
+## 🎯 Career Focus
+
+- SOC Analyst
+- Threat Detection
+- Network Security
+- Incident Response
 
 📈 Current Goal
 
