@@ -41,6 +41,10 @@ I am a cybersecurity student passionate about building real-world security tools
 
 ---
 <p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashicasharma1&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashicasharma1&theme=tokyonight" />
+</p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,linux,git,github&perline=8" />
 </p>
 
